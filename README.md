@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This project showcases my skills and p
 
 - **Responsive Design:** The site is fully responsive, providing a great user experience on all devices.
 - **Project Showcase:** Highlights some of my key projects with detailed descriptions and links.
-- **Contact Form:** Allows visitors to contact me directly through the website.
+- **Contact Form:** Allows visitors to contact me through the website.
 - **Interactive Elements:** Uses JavaScript to add interactive and dynamic elements to the site.
 
 ## Goals
@@ -18,10 +18,3 @@ Welcome to my personal portfolio website! This project showcases my skills and p
 - **Demonstrate Skills:** Showcase my HTML, CSS, and JavaScript proficiency.
 - **Learning and Growth:** Improve my web development skills by implementing concepts learned from YouTube tutorials.
 - **Professional Presence:** Establish an online presence to attract potential employers and collaborators.
-
-## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
-
